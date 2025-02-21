@@ -66,9 +66,11 @@ Si deseas ejecutar la aplicación en tu equipo local, sigue estos pasos:
 ---
 
 ## 📷 Vista Previa
-Se adjutan 3 imágenes de las vistas previas de la Aplicación![cv1](https://github.com/user-attachments/assets/e12786a4-6eaf-4811-9844-5e19271e4f5b)
-![cv2](https://github.com/user-attachments/assets/f4f4998c-87cc-4899-8eae-ffceb738abd4)
-![cv3](https://github.com/user-attachments/assets/d80bb9e9-277c-4335-88dd-6e8498dd3ca6)
+Se adjutan 3 imágenes de las vistas previas de la Aplicación!
+![cv1](https://github.com/user-attachments/assets/82378012-b795-484d-a88f-abb6cce425ab)
+![cv2](https://github.com/user-attachments/assets/e1c9db9e-5598-42c8-8fe9-46d82dc85e23)
+![cv3](https://github.com/user-attachments/assets/6b207ae9-cd7d-47c0-8a0e-bdf35c2562d3)
+
 
 
 ---
